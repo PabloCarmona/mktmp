@@ -1,0 +1,14 @@
+{
+  "name": "tmp-folder-generator",
+  "version": "0.0.1",
+  "description": "A command utility to generate temporary folders on your filesystem.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mktmp": "cli.js"
+  },
+  "author": "Pablo Carmona",
+  "license": "MIT"
+}
