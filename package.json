@@ -1,5 +1,5 @@
 {
-  "name": "tmp-folder-generator",
+  "name": "mktmp",
   "version": "0.0.1",
   "description": "A command utility to generate temporary folders on your filesystem.",
   "main": "cli.js",
